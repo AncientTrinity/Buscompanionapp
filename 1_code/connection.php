@@ -2,9 +2,9 @@
 
 // Database credentials
 $host = "localhost";
-$user = "test";
-$password = "test";
-$dbname = "test";
+$user = "root";
+$password = "";
+$dbname = "belizebuscompanion";
 
 // Create connection
 $conn = mysqli_connect($host, $user, $password, $dbname);
